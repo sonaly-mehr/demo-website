@@ -1,6 +1,4 @@
-.page_header{
-    padding: 15px 30px;
-}
+.page_header{ padding: 15px 30px;}
 span.ant-page-header-heading-extra{
     width: 28%;
     text-align: right;
@@ -11,9 +9,7 @@ span.ant-page-header-heading-extra{
   }
 span.ant-page-header-heading-title::first-letter{color:#00BA6A}
 span.ant-page-header-heading-title{font-size: 40px;font-weight: 700;margin-top: -18px;}
-li.ant-menu-overflow-item.ant-menu-item.ant-menu-item-selected:hover{
-    border-bottom: none;
-}
+li.ant-menu-overflow-item.ant-menu-item.ant-menu-item-selected:hover{border-bottom: none;}
 li.ant-menu-overflow-item.ant-menu-item.ant-menu-item-selected::after{border-bottom: none;}
 button.ant-btn.ant-btn-round.ant-btn-primary.ant-btn-lg span{font-size: 14px;}
  button.ant-btn.ant-btn-round.ant-btn-primary.ant-btn-lg{
@@ -36,4 +32,3 @@ button.ant-btn.ant-btn-round.ant-btn-primary.ant-btn-lg span{font-size: 14px;}
     font-size: 18px;
     color: #00BA6A !important;
  }
-/* .ant-menu-item-selected::after{border-bottom: none;} */
